@@ -11,7 +11,9 @@
     - Quarkus et la compilation native
         - Slides : https://fredmencier.github.io/heg-course-quarkus/1
         - Test JDK >= 24 AOT Cache
-            - Application Springboot : https://github.com/FredMencier/heg-course-quarkus/tree/main/simple-java-person
+            - Application Springboot Person : https://github.com/FredMencier/heg-course-quarkus/tree/main/simple-java-person
+        - Test de performance
+            - Application Quarkus Person : https://github.com/FredMencier/quarkus-first-app
 - 🌱 __Implémentations de Services__ (Bachelor 2ème année)
     - TO COMPLETE
 
