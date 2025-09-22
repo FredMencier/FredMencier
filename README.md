@@ -10,7 +10,7 @@
 - 🌱 __Technologies Emergentes__ (Bachelor 3ème année)
     - Quarkus et la compilation native
         - Slides : https://fredmencier.github.io/heg-course-quarkus/1
-        - 
+        - Test JDK >= 24 AOT Cache : https://github.com/FredMencier/heg-course-quarkus/tree/main/simple-java-person
 - 🌱 __Implémentations de Services__ (Bachelor 2ème année)
     - TO COMPLETE
 
