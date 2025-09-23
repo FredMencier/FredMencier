@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-### 🔖 Senior Achitect chez Lombard Odier
+### 🔖 Senior Architect chez Lombard Odier
 
 - Springboot, Quarkus, EAP6, OpenRewrite
 
