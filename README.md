@@ -15,7 +15,7 @@
         - Test de performance
             - Application Quarkus Person : https://github.com/FredMencier/quarkus-first-app
 - 🌱 __Implémentations de Services__ (Bachelor 2ème année)
-    - TO COMPLETE
+
 
 ### 🔖 Réalisations
 
