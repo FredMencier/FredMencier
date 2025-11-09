@@ -5,7 +5,7 @@
 
 - Springboot, Quarkus, EAP6, OpenRewrite
 
-### 🔖 HEG Geneva Enseignant
+### 🔖 HEG Geneve Enseignant
 
 - 🌱 __Technologies Emergentes__ (Bachelor 3ème année)
     - Quarkus et la compilation native
