@@ -22,6 +22,10 @@
 - 🔥 Starter Springboot [Fury](https://fory.apache.org)
     - Starter Springboot : https://github.com/FredMencier/fury-starter
     - Fury demo : https://github.com/FredMencier/spring3-demo-fury
+- 📝 Utilisation de l'outil de génération de documentation [Antora](https://antora.org/)
+    - Customisation du bundle Spring de la ui : https://github.com/FredMencier/antora-ui-spring
+    - Réalisation de la documentation au format `Antora` : https://github.com/FredMencier/antora-sample
+    - Résultat de la génération du site avec `Antora` : https://fredmencier.github.io/antora-sample/entrance-doc/1.0.0/index.html
 - 🏃‍♂️‍➡️ Site internet et application mobile de sport outdoor
     - [trail-passion.net](http://trail-passion.net)
     - [Application mobile](https://play.google.com/store/apps/details?id=com.trailpassion)
